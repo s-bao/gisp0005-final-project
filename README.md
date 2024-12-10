@@ -1,13 +1,9 @@
 # Optimizing Pairs Trading: Integrating Regime Switching to Test Various Pairs Trading Strategies
 Annabel and Sarah's GISP 0005 Final Project
 
-**Proposal:**
+**Proposal:** https://docs.google.com/presentation/d/1u7MUJpSb3D-5mXtt4nKKosjoLeSfjl6KNkZ8664gWU0/edit#slide=id.g30b5794653f_0_22
 
-https://docs.google.com/presentation/d/1u7MUJpSb3D-5mXtt4nKKosjoLeSfjl6KNkZ8664gWU0/edit#slide=id.g30b5794653f_0_22
-
-**Final Presentation:**
-
-https://docs.google.com/presentation/d/1A3yLia2gtrrRuAN6VQju0ivt5U1cEaR2audm3hgLbH8/edit#slide=id.g2d69eb44565_0_89
+**Final Presentation:** https://docs.google.com/presentation/d/1A3yLia2gtrrRuAN6VQju0ivt5U1cEaR2audm3hgLbH8/edit#slide=id.g2d69eb44565_0_89
 
 
 **References:**
