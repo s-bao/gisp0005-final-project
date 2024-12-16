@@ -1,13 +1,15 @@
 # Optimizing Pairs Trading: Integrating Regime Switching to Test Various Pairs Trading Strategies
 Annabel and Sarah's GISP 0005 Final Project
 
-**Proposal:** https://docs.google.com/presentation/d/1u7MUJpSb3D-5mXtt4nKKosjoLeSfjl6KNkZ8664gWU0/edit#slide=id.g30b5794653f_0_22
+##Proposal:
+https://docs.google.com/presentation/d/1u7MUJpSb3D-5mXtt4nKKosjoLeSfjl6KNkZ8664gWU0/edit#slide=id.g30b5794653f_0_22
 
-**Final Presentation:** https://docs.google.com/presentation/d/1A3yLia2gtrrRuAN6VQju0ivt5U1cEaR2audm3hgLbH8/edit#slide=id.g2d69eb44565_0_89
+##Final Presentation:
+https://docs.google.com/presentation/d/1A3yLia2gtrrRuAN6VQju0ivt5U1cEaR2audm3hgLbH8/edit#slide=id.g2d69eb44565_0_89
 
 
 
-**References:**
+##References:
 
 Ang, Andrew, and Allan Timmermann. "Regime Changes and Financial Markets." Annual Review of Financial Economics 4 (2012): 313-337. https://doi.org/10.1146/annurev-financial-110311-101808
 
@@ -22,7 +24,7 @@ Krauss, Christopher. "Statistical Arbitrage Pairs Trading Strategies: Review and
 (*) primary reference paper
 
 
-**Other Helpful Links:**
+##Other Helpful Links:**
 
 ETF Pairs Trading Kaggle: https://www.kaggle.com/code/christopherchiarilli/etf-pairs-trading-signals-spy-qqq
 
