@@ -1,5 +1,5 @@
 # Optimizing Pairs Trading: Integrating Regime Switching to Test Various Pairs Trading Strategies
-Annabel and Sarah's GISP 0005 Final Project
+Annabel and Sarah's Quantitative Finance I Final Project
 
 ## Methods
 - Test various pair selection strategies: SSD, co-integration, clustering
