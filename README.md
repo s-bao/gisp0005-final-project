@@ -1,6 +1,14 @@
 # Optimizing Pairs Trading: Integrating Regime Switching to Test Various Pairs Trading Strategies
 Annabel and Sarah's GISP 0005 Final Project
 
+## Methods
+- Test various pair selection strategies: SSD, co-integration, clustering
+- Test HMM fitting with 2 states: high and low mean
+- Develop various strategies to model the spread of a pair of stocks and experiment with different trading strategies (Vasicek model, 2-state model, rolling mean distance method, and 2-state distance methods)
+  - Fit each model on the pair to optimize parameters (e.g., mean and std. dev.) and use these parameters to set thresholds for the trading rules
+  - Fit various models over a 1-year formation period, then trade for 1 month. During fitting, re-select top pairs based on various methods and refit the model with new parameters, adjusting the trading strategy. After each trading period, roll the formation window forward by 1 month (21 trading days) and repeat.
+- Use profit/returns to assess each strategy
+
 ## Proposal
 https://docs.google.com/presentation/d/1u7MUJpSb3D-5mXtt4nKKosjoLeSfjl6KNkZ8664gWU0/edit#slide=id.g30b5794653f_0_22
 
